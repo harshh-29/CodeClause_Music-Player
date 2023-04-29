@@ -1,3 +1,2 @@
-# MusicPlayer
-> Put Any .mp3 Files you want in music folder
->> run music.py And Enjoy !
+Developed this music player in python as my internship project at CodeClause
+Just add songs in the musics folder and run the .py file (there are already some music available in that folder)
